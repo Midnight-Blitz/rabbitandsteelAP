@@ -1,0 +1,13 @@
+﻿name: Player{number}
+description: Default Manual_RabbitandSteel_Saye Template
+
+game: Manual_RabbitandSteel_Saye
+Manual_RabbitandSteel_Saye:
+  progression_balancing: 50
+  accessibility: items
+
+  All_Rabbits:
+    # If true: All rabbits will have individual checks for each run.
+    # If false: Only one complete run is required to beat the game.
+    'false': 0
+    'true': 50
